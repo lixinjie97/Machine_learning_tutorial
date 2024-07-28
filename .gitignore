@@ -1,0 +1,10 @@
+**/*.ipr
+**/*.iml
+**/*.iws
+**/target
+**/*.pyc
+.idea
+.idea/*
+**/__pycache__
+**/__pycache__/*
+*.pyc
